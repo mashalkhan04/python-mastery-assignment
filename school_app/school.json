@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Ali Raza",
+        "roll_number": 12,
+        "marks": [
+            80,
+            72,
+            91
+        ]
+    },
+    {
+        "name": "Sara Khan",
+        "roll_number": 7,
+        "marks": [
+            95,
+            88,
+            90
+        ]
+    },
+    {
+        "name": "Ahmed Ali",
+        "roll_number": 3,
+        "marks": [
+            60,
+            45,
+            70
+        ]
+    },
+    {
+        "name": "Fatima Noor",
+        "roll_number": 21,
+        "marks": [
+            78,
+            82,
+            69
+        ]
+    },
+    {
+        "name": "Bilal Shah",
+        "roll_number": 15,
+        "marks": [
+            35,
+            60,
+            55
+        ]
+    },
+    {
+        "name": "Zara Ahmad",
+        "roll_number": 30,
+        "marks": [
+            3.0
+        ]
+    }
+]

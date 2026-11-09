@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+
+# Secrets (never upload these)
+.env
+
+# Personal diary and logs created when you run the programs
+diary.txt
+*.log
+*.bak

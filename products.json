@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Pen",
+        "price": 30.0,
+        "stock": 100,
+        "tags": [
+            "stationery"
+        ]
+    },
+    {
+        "name": "Notebook",
+        "price": 120.0,
+        "stock": 0,
+        "tags": [
+            "stationery",
+            "school"
+        ]
+    },
+    {
+        "name": "Backpack",
+        "price": 2500.0,
+        "stock": 15,
+        "tags": [
+            "bags",
+            "school"
+        ]
+    },
+    {
+        "name": "Water Bottle",
+        "price": 450.0,
+        "stock": 0,
+        "tags": []
+    },
+    {
+        "name": "Calculator",
+        "price": 900.0,
+        "stock": 8,
+        "tags": [
+            "electronics",
+            "school"
+        ]
+    }
+]
